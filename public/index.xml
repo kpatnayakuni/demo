@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kiran Patnayakuni</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Kiran Patnayakuni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Oct 2020 09:09:33 +0530</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project</title>
+      <link>https://example.com/project/</link>
+      <pubDate>Sat, 31 Oct 2020 09:15:49 +0530</pubDate>
+      
+      <guid>https://example.com/project/</guid>
+      <description>Project 1 Description </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sat, 31 Oct 2020 09:09:33 +0530</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Kiran Patnayakuni I am Cloud Op Eng Specialist
+Thank you.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://example.com/post/welcome/</link>
+      <pubDate>Sat, 31 Oct 2020 09:09:33 +0530</pubDate>
+      
+      <guid>https://example.com/post/welcome/</guid>
+      <description>Welcome to my site Thanks for visiting my site
+Kiran P </description>
+    </item>
+    
+  </channel>
+</rss>
