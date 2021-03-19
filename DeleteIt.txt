@@ -1,0 +1,21 @@
+Core Competencies 
+ 	Cloud Administration (IaaS)
+ 	Server Administration
+ 	Database Administration
+ 	Virtualization & Containerisation 
+ 	Scripting & Tool making
+ 	Automation & Programming
+ 	DevOps Best Practices
+Core Technologies
+ 	Microsoft Azure
+ 	Microsoft Windows Server 2012 – 2016
+ 	Microsoft SQL Server 2014, 2016
+ 	Microsoft Hyper-V, Docker 
+ 	T-SQL, PowerShell, C#, Python & Shell Scripting
+ 	PowerShell DSC, Ansible, Terraform
+ 	HTML, XML, JSON & YAML
+ 	Jenkins, Git, Azure DevOps 
+Known Technologies
+ 	AWS
+ 	Linux (Ubuntu & RedHat)
+ 	Kubernetes
